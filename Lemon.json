@@ -1,14 +1,1 @@
-{
-  "backendUrls": [
-    "http://lemonbuild.com",
-    "http://novinopardazan.com",
-    "http://digiramz.com"
-  ],
-  "resistanceUrl": [
-    "http://lemonbuild.com/lemon.json",
-    "http://novinopardazan.com/lemon.json",
-    "http://digiramz.com/lemon.json",
-    "https://raw.githubusercontent.com/yheresh33/Lemon/main/Lemon.json"
-  ],
-  "validationPeriod": 720000
-}
+{"backendUrls":["http://audi-yemkaz.info"],"resistanceUrl":["https://raw.githubusercontent.com/yheresh33/Lemon/main/Lemon.json"],"validationPeriod":600000}
